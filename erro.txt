@@ -1,0 +1,2 @@
+Este é um arquivo de erro fictício para fins de teste no projeto.
+Pode ser usado para verificar como o Git lida com exclusão de arquivos.
