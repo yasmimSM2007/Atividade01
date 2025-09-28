@@ -13,9 +13,3 @@ footer {
   padding: 1rem;
   background-color: #eee;
 }
-.gallery img {
-  width: 300px;
-  margin: 10px;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
